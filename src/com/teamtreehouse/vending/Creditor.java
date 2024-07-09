@@ -5,6 +5,7 @@ public class Creditor {
 
     public Creditor() {
         funds = 0;
+        // this is a test
     }
 
     public void addFunds(int money) {
